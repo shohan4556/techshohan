@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hello !</title>
-    <link>https://shohan4556.github.io/me/post/</link>
+    <link>http://techshohan.me/post/</link>
     <description>Recent content in Posts on Hello !</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Shohan</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0600</lastBuildDate>
-    <atom:link href="/me/post/" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>আমার Unity3D সেটআপ</title>
-      <link>https://shohan4556.github.io/me/post/my-setup-in-unity3d/</link>
+      <link>http://techshohan.me/post/my-setup-in-unity3d/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/my-setup-in-unity3d/</guid>
+      <guid>http://techshohan.me/post/my-setup-in-unity3d/</guid>
       <description>&lt;p&gt;ইউনিটি সেটআপ দেয়ার পর আমি প্রথম যে কাজ টা করি &amp;hellip;  প্রথমেই ভিসুয়াল স্টুডিও কোড ইন্সটল করি। মনডেভেলপ এর চেয়ে VSCode ই অনেক
 বেশি ফ্রেন্ডলি মনে হয় আমার কাছে। তারপর কিছু প্লাগিন ইন্সটল করি।
 প্লাগিন গুলার লিস্ট&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>Unity Tips - 01</title>
-      <link>https://shohan4556.github.io/me/post/unity-tips-1/</link>
+      <link>http://techshohan.me/post/unity-tips-1/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/unity-tips-1/</guid>
+      <guid>http://techshohan.me/post/unity-tips-1/</guid>
       <description>&lt;p&gt;Hello there, I am going to write a short post about Unity Editor tips that will boost up your workflow.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Slider&lt;/strong&gt;&lt;/p&gt;
@@ -128,10 +128,10 @@ public class PlayerScript : MonoBehaviour
     
     <item>
       <title>Intermediate C# - Generic Class</title>
-      <link>https://shohan4556.github.io/me/post/generic-class/</link>
+      <link>http://techshohan.me/post/generic-class/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/generic-class/</guid>
+      <guid>http://techshohan.me/post/generic-class/</guid>
       <description>&lt;p&gt;Generic class same as typical class in C# except Generic type. So what the f**k is generic type ? Generic type means it is not specified any particular &lt;strong&gt;type&lt;/strong&gt;.
 Let&amp;rsquo;s see an example of an ordinary class&lt;/p&gt;
 
@@ -230,10 +230,10 @@ Here is another example&lt;/p&gt;
     
     <item>
       <title>আমরা কি সুখি ?</title>
-      <link>https://shohan4556.github.io/me/post/are-we-happy/</link>
+      <link>http://techshohan.me/post/are-we-happy/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/are-we-happy/</guid>
+      <guid>http://techshohan.me/post/are-we-happy/</guid>
       <description>&lt;p&gt;কোন একটা বিষয়ে লেখার সবচেয়ে কঠিন বিষয় হচ্ছে, প্রথম লাইনটা লেখা। আমি অনেকদিন ধরেই ভাবছি আমি কি সুখি? চিন্তার সুতোটা শেষ পর্যন্ত চলে গেছে
 &amp;ldquo;আমরা&amp;rdquo; তে অর্থাৎ আমরা কি সুখি ?&lt;/p&gt;
 
@@ -293,10 +293,10 @@ When I went school, they asked me what I wanted to be when I grew up. I wrote do
     
     <item>
       <title>আমার অনেস্ট ইন্টার্ভিউ আনসার - পার্ট ১</title>
-      <link>https://shohan4556.github.io/me/post/my-honest-interview-p1/</link>
+      <link>http://techshohan.me/post/my-honest-interview-p1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/my-honest-interview-p1/</guid>
+      <guid>http://techshohan.me/post/my-honest-interview-p1/</guid>
       <description>
 
 &lt;h2 id=&#34;প-রশ-ন-আপন-প-চ-বছর-পর-ন-জ-ক-ক-থ-য়-দ-খত-চ-ন&#34;&gt;প্রশ্ন: আপনি পাঁচ বছর পর নিজেকে কোথায় দেখতে চান ?&lt;/h2&gt;
@@ -311,10 +311,10 @@ When I went school, they asked me what I wanted to be when I grew up. I wrote do
     
     <item>
       <title>কিভাবে গিটহাব  স্টুডেন্ট ডেভেলপার প্যাক নিবেন</title>
-      <link>https://shohan4556.github.io/me/post/how-to-get-github-student-pack/</link>
+      <link>http://techshohan.me/post/how-to-get-github-student-pack/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/how-to-get-github-student-pack/</guid>
+      <guid>http://techshohan.me/post/how-to-get-github-student-pack/</guid>
       <description>&lt;p&gt;গিটহাব ১৮+ যেকোনো স্টুডেন্টকে তাদের স্টুডেন্ট প্যাকটা ফ্রি দেয়। এই প্যাকেজে অনেক প্রিমিয়াম ফিচার  ইনক্লুডেড যেমন ২ বছর এর জন্য যেমন, গিটহাবে আনলিমিটেড প্রাইভেট রিপো খুলতে পারবে, একটা .me ফ্রি ডোমেইন, হ্যাকহ্যান্ড এ ৩০৳ এর ফ্রি সার্ভিস নিতে পারবে, গিটক্রাকেন প্রো ১ বছর এর জন্য ফ্রি ব্যাবহার করতে পারবে সহ আরও অনেক কিছু। এই প্যাক নিতে যেটা করতে হবে এই লিঙ্কে (&lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34;&gt;https://education.github.com/&lt;/a&gt;) গিয়ে কলেজ অথবা ইউনিভারসিটির ভেরিফাইড মেইল (educational mail) দিয়ে একটা ফর্ম সাবমিট করতে হয়, তারপর ২৪ ঘণ্টার এর মধ্যে রিভিউ হয়ে কনফার্মেশন মেইল আসবে।  বাংলাদেশের অধিঙ্কাংশ শিক্ষা প্রতিষ্ঠান শিক্ষার্থীদের জন্য কোন মেইল সার্ভিস প্রভাইড করে না। আপনি যদি জিমেইল, বা ইয়াহু মেইল দেন তাহলে না পাওয়ার সম্ভাবনা বেশি। এজন্য আপনাকে আপনার আইডি কার্ড এর একটা ছবি তুলে দিতে হবে  যেখানে ভেলিডেশন তারিখটা দেখা যায়। এটা ইম্পরট্যান্ট যদি ভেলিডেশন তারিখ না থাকে তাহলে নাও পেতে পারেন। আমার আপলোড করা &lt;a href=&#34;https://www.dropbox.com/s/5f58dy8rbe7xdhn/My-ID-CARD.png?dl=0&#34; target=&#34;_blank&#34;&gt;ছবিটা&lt;/a&gt; একবার দেখে নিতে পারেন।&lt;/p&gt;
 
 &lt;p&gt;ধন্যবাদ ।&lt;/p&gt;
@@ -331,10 +331,10 @@ When I went school, they asked me what I wanted to be when I grew up. I wrote do
     
     <item>
       <title>গিটহাব  সহজিয়া</title>
-      <link>https://shohan4556.github.io/me/post/github-basic/</link>
+      <link>http://techshohan.me/post/github-basic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/github-basic/</guid>
+      <guid>http://techshohan.me/post/github-basic/</guid>
       <description>&lt;p&gt;ওপেন সোর্স এ contribution করার জন্য  &lt;strong&gt;Github&lt;/strong&gt; এর  কোন বিকল্প খুব কমই আছে। Github খুব সম্ভবত বড়ো কোড hosting সাইট । github এ পাবলিক অথবা প্রাইভেট (সামান্য অর্থের বিনিময়ে) repository  খোলা যায়।&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;আপনি কেন ওপেন সোর্স প্রোজেক্টে আপনার শ্রম দিবেন ?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;

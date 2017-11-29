@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ওপেন সোর্স on Hello !</title>
-    <link>https://shohan4556.github.io/me/tags/%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8/</link>
+    <link>http://techshohan.me/tags/%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8/</link>
     <description>Recent content in ওপেন সোর্স on Hello !</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Shohan</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/me/tags/%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>গিটহাব  সহজিয়া</title>
-      <link>https://shohan4556.github.io/me/post/github-basic/</link>
+      <link>http://techshohan.me/post/github-basic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/github-basic/</guid>
+      <guid>http://techshohan.me/post/github-basic/</guid>
       <description>&lt;p&gt;ওপেন সোর্স এ contribution করার জন্য  &lt;strong&gt;Github&lt;/strong&gt; এর  কোন বিকল্প খুব কমই আছে। Github খুব সম্ভবত বড়ো কোড hosting সাইট । github এ পাবলিক অথবা প্রাইভেট (সামান্য অর্থের বিনিময়ে) repository  খোলা যায়।&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;আপনি কেন ওপেন সোর্স প্রোজেক্টে আপনার শ্রম দিবেন ?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;

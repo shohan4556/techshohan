@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on Hello !</title>
-    <link>https://shohan4556.github.io/me/tags/coding/</link>
+    <link>http://techshohan.me/tags/coding/</link>
     <description>Recent content in Coding on Hello !</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Shohan</copyright>
     <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/me/tags/coding/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/coding/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>আমার Unity3D সেটআপ</title>
-      <link>https://shohan4556.github.io/me/post/my-setup-in-unity3d/</link>
+      <link>http://techshohan.me/post/my-setup-in-unity3d/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/my-setup-in-unity3d/</guid>
+      <guid>http://techshohan.me/post/my-setup-in-unity3d/</guid>
       <description>&lt;p&gt;ইউনিটি সেটআপ দেয়ার পর আমি প্রথম যে কাজ টা করি &amp;hellip;  প্রথমেই ভিসুয়াল স্টুডিও কোড ইন্সটল করি। মনডেভেলপ এর চেয়ে VSCode ই অনেক
 বেশি ফ্রেন্ডলি মনে হয় আমার কাছে। তারপর কিছু প্লাগিন ইন্সটল করি।
 প্লাগিন গুলার লিস্ট&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>Unity Tips - 01</title>
-      <link>https://shohan4556.github.io/me/post/unity-tips-1/</link>
+      <link>http://techshohan.me/post/unity-tips-1/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/unity-tips-1/</guid>
+      <guid>http://techshohan.me/post/unity-tips-1/</guid>
       <description>&lt;p&gt;Hello there, I am going to write a short post about Unity Editor tips that will boost up your workflow.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Slider&lt;/strong&gt;&lt;/p&gt;
@@ -128,10 +128,10 @@ public class PlayerScript : MonoBehaviour
     
     <item>
       <title>Intermediate C# - Generic Class</title>
-      <link>https://shohan4556.github.io/me/post/generic-class/</link>
+      <link>http://techshohan.me/post/generic-class/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://shohan4556.github.io/me/post/generic-class/</guid>
+      <guid>http://techshohan.me/post/generic-class/</guid>
       <description>&lt;p&gt;Generic class same as typical class in C# except Generic type. So what the f**k is generic type ? Generic type means it is not specified any particular &lt;strong&gt;type&lt;/strong&gt;.
 Let&amp;rsquo;s see an example of an ordinary class&lt;/p&gt;
 
