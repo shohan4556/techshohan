@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content tagged as &#39;Academic&#39; on Hello !</title>
+    <link>https://shohan4556.github.io/me/tags/academic/</link>
+    <description>Recent content in Content tagged as &#39;Academic&#39; on Hello !</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 Shohan</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/me/tags/academic/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dark Inside</title>
+      <link>https://shohan4556.github.io/me/project/dark-inside/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shohan4556.github.io/me/project/dark-inside/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Project Leader : Shohanur Rahaman
+
+&lt;ul&gt;
+&lt;li&gt;Game Art: Belal Hossain&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/shohan4556/dark-inside&#34; target=&#34;_blank&#34;&gt;View Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
