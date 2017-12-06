@@ -9,7 +9,7 @@ How to use Laser2D ...
 """
 
 [header]
-image = "Laser2D.PNG"
+image = "Laser2D.png"
 caption = "Image credit: [**ME!**](#)"
 
 +++
