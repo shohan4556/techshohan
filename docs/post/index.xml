@@ -38,7 +38,7 @@
 
 &lt;p&gt;কিছু প্রশ্ন ছিল, গেম ডিজাইনার হিসেবে কিভাবে ক্যারিয়ার বা কিভাবে শেখা যায়, মাশা ভাইয়ের সাজেশন ছিল বিভিন্ন বই এবং extracredit এর গেম ডিজাইন এর ভিডিও গুলো। আর একটা প্রশ্নের কথা মনে পড়তেছে, কিভাবে ম্যাসিভ অডিয়েন্স পাওয়া যায়, এখানে অনেক গুলো সাজেশন ছিল, যেমন বাংলাদেশ বা সাউথ এশিয়ান রিজিওন কে টার্গেট করে গেম বানানো যেতে পার, লোকালাইজেশন করে বিভিন্ন রিজিওনাল সাইটে গেম পাবলিশ করা যেতে পারে অথবা আউট অফ বক্স কোন আইডিয়া নিয়ে গেম ডেভেলপ করা যেতে পারে।&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;এই লেখাটা স্মৃতি থেকে লেখা, অনেক পয়েন্ট বাদ পড়ে গেছে আবার নতুন পয়েন্ট নিজের মত করে অ্যাড করে দিয়েছি।&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;এই লেখাটা স্মৃতি থেকে লেখা, অনেক পয়েন্ট বাদ পড়ে গেছে আবার নতুন পয়েন্ট নিজের মত করে অ্যাড করে দিয়েছি।c&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -246,6 +246,28 @@ Here is an example, assumes that you have a script &lt;code&gt;Myscript&lt;/code
 &lt;blockquote&gt;
 &lt;p&gt;এছাড়াও আরও কিছু প্লাগিন বা থিম মাঝে  মধ্যেই ব্যাবহার করি এই মুহূর্তে মনে পড়ছে না।&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game AI - Finite State Machine</title>
+      <link>http://techshohan.me/post/game-ai-fsm/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://techshohan.me/post/game-ai-fsm/</guid>
+      <description>&lt;p&gt;Hello there, I have posted a tutorial series about Finite State Machine with Unity3D. FSM is very easy to implement and very effective is some cases.&lt;/p&gt;
+
+&lt;p&gt;Here is the tutorial series.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dDQEFSk-rQM&amp;amp;list=PLWnE_CWJ15J7ajZQ8gKwed8rnetI0SdfN&#34; title=&#34;FSM with Unity3D Intro&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://i.imgur.com/Hp2oLiw.png&#34; alt=&#34;FSM with Unity3D Intro&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;follow me on &lt;a href=&#34;https://www.facebook.com/shohan4556&#34; target=&#34;_blank&#34;&gt;facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;follow me on &lt;a href=&#34;https://www.twitter.com/shohan4556&#34; target=&#34;_blank&#34;&gt;twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;follow me on &lt;a href=&#34;https://www.github.com/shohan4556&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
